@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "index",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/index.html"
+        },
+        {
+            "name": "pihenohelyek",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/pihenohelyek.html"
+        }
+    ]
+}
