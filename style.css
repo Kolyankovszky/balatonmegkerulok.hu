@@ -37,6 +37,10 @@ body, html {
   color: rgb(238, 157, 35);
 }
 
+.navbar-toggler {
+  background-color: rgb(238, 157, 38);
+}
+
   .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6{
     position: relative;
     opacity: 1;
