@@ -9,8 +9,8 @@ body, html {
 #header {
     background-color: #282E34;
     padding: 10px;
-    color: white;
-    text-align: center;
+    color: rgb(238, 157, 35);
+    text-align: right;
     font-size: 30px; 
     font-weight:normal;
     position:static;
@@ -24,7 +24,7 @@ body, html {
   @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Homemade+Apple&family=Poiret+One&display=swap");
 
 .navbar {
-  box-shadow: 0 0 2rem rgb(0 0 0 / 45%) !important;
+  box-shadow: 0 0 2rem rgb(238 157 35 / 45%) !important;
   min-height: 70px;
   top: 0;
   left: 0;
@@ -33,7 +33,12 @@ body, html {
 }
 
 .nav-link {
-  color: antiquewhite;
+  background-color: #413f3f8e;
+  color: rgb(238, 157, 35);
+}
+
+.navbar-toggler {
+  background-color: rgb(238, 157, 38);
 }
 
   .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6{
